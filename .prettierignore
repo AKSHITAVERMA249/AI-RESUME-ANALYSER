@@ -1,0 +1,7 @@
+# Ignore artifacts and generated files
+node_modules
+build
+build/**
+dist
+coverage
+.react-router
